@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Demo",
-    introTitle: 'Nguyen van A',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    titleWeb: "Gửi cho ... <3",
+    introTitle: 'Tên người yêu bạn',
+    introDesc: `Cả cuộc đời em chưa bao giờ viết nhiều code như thế này
+Sách ở trường em đọc ko hiểu, mà tự viết thì chỗ thừa chỗ thiếu
+Em vốn ko định nhờ anh dạy đâu :))) nhưng ko dạy em thực sự ko biết làmmmm
+Thật ra em nhờ bạn làm hộ cũng được ấy, mà thế có vẻ không thật tâm cho lắm. Cho nên dù hơi phèn ỉa một tí….. nhưng bạn đừng chê nhá!!!`,
+    btnIntro: '^^Yêu em^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'DO YOU LOVE ME',
+    btnYes: 'YESSSS <33',
+    btnNo: 'Bấm No đi :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnReply: 'hihi',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'hmmm,Dù có chuyện gì đi nữa, mình vẫn ở đây với bạn. Ko biết tương lai ntn, chỉ mong ko sai người.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: '
 }
