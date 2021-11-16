@@ -3,11 +3,11 @@ $(document).ready(function() {
     setTimeout(function() {
         firstQuestion();
         $('.spinner').fadeOut();
-        $('#preloader').delay(350).fadeOut('slow');
-        $('body').delay(350).css({
+        $('#preloader').delay(1).fadeOut('slow');
+        $('body').delay(1).css({
             'overflow': 'visible'
         });
-    }, 600);
+    }, 60);
 })
 
 function init() {
