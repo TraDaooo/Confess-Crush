@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi cho ... ❤",
     introTitle: 'Hello Ngân Lee',
-    introDesc: Mới đó đã nửa năm quen nhau rồi nhỉ, nhớ hồi chị mới vào room vẫn còn acc ngựa, em mới lv6. Duyên số thế nào lại gặp được em, lỡ va phải ánh mắt em, rùi mê em từ đó đến giờ🤣🤣.    btnIntro: '^^Yêu^^',
+    introDesc: 'Mới đó đã nửa năm quen nhau rồi nhỉ, nhớ hồi chị mới vào room vẫn còn acc ngựa, em mới lv6. Duyên số thế nào lại gặp được em, lỡ va phải ánh mắt em, rùi mê em từ đó đến giờ🤣🤣.    btnIntro: '^^Yêu^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     desc: 'DO YOU LOVE ME',
     btnYes: 'YESSSS <33',
