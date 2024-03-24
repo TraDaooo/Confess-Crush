@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Send to... ❤",
     introTitle: 'Hello Soda',
     introDesc: 'In love, one plus one equals everything and two minus one equals zero',
-    btnIntro: '^^Yesss^^',
+    btnIntro: '^^Yessss^^',
     title: 'To the world you may be one person, but to the one person you may be the world',
     desc: 'DO YOU LOVE ME ',
     btnYes: 'YESSSS <33',
