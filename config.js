@@ -7,7 +7,7 @@ const CONFIG = {
     desc: ' T vs Hằng cùng rơi xuống nước thì m chọn ai ',
     btnYes: ' chọn c Phương xinh gái ',
     btnNo: 'Chọn Hằng:3',
-    question: ' Cảm ơn thì thanh xuân của t đã có m là bạn ',
+    question: ' Cảm ơn vì thanh xuân của t đã có m là bạn ',
     btnReply: ' Không có gì đou <3',
     reply: ' Cảm ơn vì sự sinh sau đẻ muộn 3 ngày khiến t thành đệ của m ',
     mess: ' Happy Birthday ',
