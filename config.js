@@ -8,10 +8,10 @@ const CONFIG = {
     btnYes: ' chọn c Phương xinh gái ',
     btnNo: 'Chọn Hằng:3',
     question: ' Cảm ơn thì thanh xuân của t đã có m là bạn ',
-    btnReply: ' Cảm ơn vì sự sinh sau đẻ muộn 3 ngày khiến m thành đệ của t <3',
-    reply: ' Chúc bét phen sinh nhật vui vẻ, tuổi mới tràn ngập niềm vui ',
-    mess: ' Sớm hết ế ',
-    messDesc: ' Chúc t sớm có tình iu đẹp .',
-    btnAccept: ' Chúc bét phen sớm thoát ế ',
+    btnReply: ' Không có gì đou <3',
+    reply: ' Cảm ơn vì sự sinh sau đẻ muộn 3 ngày khiến t thành đệ của m ',
+    mess: ' Happy Birthday ',
+    messDesc: ' Chúc bét phen sinh nhật vui vẻ, sớm có ny, giàu giàu cho t được nhờ .',
+    btnAccept: ' Chúc mừng sinh nhật ',
     messLink:'https://youtu.be/Wu8NeFXaoOc?si=m_tRP3gHP4B5MSHu'
 }
